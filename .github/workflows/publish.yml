@@ -98,5 +98,5 @@ jobs:
   trigger_release:
     name: "Trigger release"
     needs: build_package
-    uses: ${{ github.repository }}/.github/workflows/release.yml@main
+    uses: "${{ github.repository }}/.github/workflows/release.yml@main"
     secrets: inherit
