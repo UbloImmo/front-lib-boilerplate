@@ -8,7 +8,7 @@ Template repository to create Internal library and private NPM package.
 ## Includes
 
 ### Github actions
-This template comes with two pre-configured github workflows to your life easier:
+This template comes with two pre-configured github workflows to make your life easier:
 
 - publish.yml :
   - Increments the package revision
@@ -72,7 +72,7 @@ webstorm package.json
 
 ### Before publishing your package
 
-Make sure to replace this README.md file with documentation about your package.
+Make sure to replace this `README.md` file with documentation about your package.
 
 ### Triggering the publishing workflow
 
