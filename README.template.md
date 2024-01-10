@@ -35,10 +35,9 @@ Some basic utility types are also included.
 
 1. Fork this repository or select it as a starting template when creating a new repository.
 
+2. Go to your new repository's secrets settings and add the following values:
 
-2. Go to your new repository's secrets settings and add the following values.
-
-- `NPM_TOKEN`: Personal access token generated in your [account settings](https://docs.npmjs.com/creating-and-viewing-access-tokens).
+   - `NPM_TOKEN`: Personal access token generated in your [account settings](https://docs.npmjs.com/creating-and-viewing-access-tokens).
 
 3. Clone and navigate to your new repository.
 
