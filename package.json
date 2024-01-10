@@ -35,5 +35,8 @@
     "build": "<REPLACE ME>",
     "incrementRevision": "bun src/scripts/incrementRevision.ts"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@ubloimmo/front-util": "^0.0.1"
+  }
 }
